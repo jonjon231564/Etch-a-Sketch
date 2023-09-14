@@ -1,0 +1,27 @@
+
+
+.parent-container {
+    display: flex;
+    margin: 50px;
+}
+
+
+.child-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.square {
+    
+    padding: 5px; 
+   
+}
+
+button {
+    padding: 20px
+}
+
+
+
+
